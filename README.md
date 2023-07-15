@@ -4,6 +4,8 @@ From here, you can download our teaching and learning materials.
 
 *At least, you will eventually be able to do that.*
 
+If you like what we do, you can [support us on Patreon!](https://www.patreon.com/boringmathematics)
+
 <hr>
 
 Hosted at [boringmathematics](https://github.com/boringmathematics) / [boringmathematics.github.io](https://github.com/boringmathematics/boringmathematics.github.io)
