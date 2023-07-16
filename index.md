@@ -6,4 +6,4 @@ Here you can download our teaching and learning materials.
 
 ---
 
-[GitHub](https://github.com/boringmathematics) • [Twitter]() • [Discord]([url](https://discord.gg/ZBWVqYN6W2)) • [Patreon!](https://www.patreon.com/boringmathematics)
+[GitHub](https://github.com/boringmathematics) • [Twitter](https://twitter.com/noyourboring) • [Discord]([url](https://discord.gg/ZBWVqYN6W2)) • [Patreon](https://www.patreon.com/boringmathematics)
