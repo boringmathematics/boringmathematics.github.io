@@ -1,3 +1,3 @@
-# boringmathematics.github.io
+# Boring Mathematics
 
 Hello.
